@@ -134,7 +134,7 @@ Merge from one branch to other
 git merge <prev<source> branch name>
 ```
 
-Some file we don want to merge it for some reason
+Some file we do not want to merge it for some reason
 
 ```sh
 git checkout HEAD <file name/folder>
