@@ -128,4 +128,16 @@ Check you git commits and logs
 git log
 ```
 
+Merge from one branch to other
+
+```sh
+git merge <prev<source> branch name>
+```
+
+Some file we don want to merge it for some reason
+
+```sh
+git checkout HEAD <file name/folder>
+```
+
 **Happy Learning!**
